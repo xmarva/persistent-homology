@@ -49,13 +49,7 @@ results["MLResults"]["AccuracyComparison"]
 
 ## Examples
 
-The code supports several data types:
-- "Sphere"
-- "Torus"
-- "MobiusBand"
-- "KleinBottle"
-- "CirclesCluster"
-- "ProteinStructure"
+The code supports several data types: Sphere, Torus, MobiusBand, KleinBottle, CirclesCluster, ProteinStructure
 
 ```wolfram
 (* Generate and visualize torus data *)
